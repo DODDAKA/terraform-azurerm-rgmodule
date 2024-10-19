@@ -1,7 +1,7 @@
 variable "my_resource_group_name" {
   description = "Resource group"
   type = string
-  default = "dnkrg"
+  default = "dnktesdt-rg"
 }
 
 variable "environment" {
