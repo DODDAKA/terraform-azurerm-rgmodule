@@ -1,7 +1,7 @@
 variable "my_resource_group_name" {
   description = "Resource group"
   type = string
-  default = "dnktesdt-rg"
+  default = "naveen-rg"
 }
 
 variable "environment" {
